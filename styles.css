@@ -1,4 +1,7 @@
-
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
 .carousel-item {
     background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5));
 }
@@ -11,4 +14,8 @@
     font-weight:bolder;
 }
 
+#colored-container-modal{
+    background-color: rgb(54, 188, 241);
+   
+}
 
