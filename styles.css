@@ -2,12 +2,10 @@ body{
     font-family: 'Open Sans', sans-serif;
     font-family: 'Poppins', sans-serif;
 }
-.carousel-item {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5));
-}
-.carousel-item .active{
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.2));
-}
+.carousel-item img{
+   
+    background-color:rgba(0,0,0,0.6);
+  }
 
 .price-tag{
     color: rgb(19, 177, 240);
